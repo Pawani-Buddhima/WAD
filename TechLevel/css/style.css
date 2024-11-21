@@ -1,0 +1,11 @@
+.bg_color {
+    background: linear-gradient(to right, #ada996, #f2f2f2, #dbdbdb, #eaeaea); 
+}
+
+.is-valid {
+    border-color: green; 
+}
+
+.is-invalid {
+    border-color: red; 
+}
